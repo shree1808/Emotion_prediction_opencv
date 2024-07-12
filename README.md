@@ -4,4 +4,13 @@
                             | 
                     === cv2 - video capture ===
                             |
-                    Flask (if possible) - web interface            
+
+# bing image downloader
+# data-splitter
+
+
+## Questions:
+
+a) Image EDA
+b) Preprocessing Image
+c) ResNet 50 / Inception / VGG - get to know the transfer learning models and learn what use cases suit each other.
