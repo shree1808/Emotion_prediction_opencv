@@ -7,3 +7,10 @@ logs/
 # cache files
 __pycache__/
 
+
+# notes
+/notes 
+
+# Harcascades
+/Harcascades
+
